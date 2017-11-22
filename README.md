@@ -1,6 +1,6 @@
 
   
-       **Big Data Analytics**
+       BIG DATA ANALYTICS
 
 
 
@@ -21,8 +21,7 @@ notebook are in the folder datasets.
 
 
 
-
-                                                     ![Jupyter logo](http://jupyter.org/assets/main-logo.svg)
+![Jupyter logo](http://jupyter.org/assets/main-logo.svg)
 
 
 
