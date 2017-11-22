@@ -1,19 +1,37 @@
-#NBA DATASET
+
   
-         For this project , I have decided to delve into the NBA, with stats from 1950
-  
-       until the present time. This dataset contains all of the NBA players for the 
-  
-     passed 60 years.  Everything from their weight and height to their season 
-  
-     stats . I can look into how the nba has evolved over the years whether it be 
-  
-      physical or increased capabilities.
+       **Big Data Analytics**
 
 
 
-      I chose this set because of my knowledge and love of the game.
+
+   This	course delves into the core concepts and implementation of Big Data analytics.  I have organized my assignments in the 
+
+assignments folder in notebook format so each will have markdown to explain each step i have taken.  The datasets used for each
+
+notebook are in the folder datasets.
 
   
 
- ![NBA logo](https://wallpapercave.com/wp/wc1710078.jpg)
+ ![Spark logo](https://spark.apache.org/images/spark-logo-trademark.png)
+
+
+
+
+
+
+
+
+                                                     ![Jupyter logo](http://jupyter.org/assets/main-logo.svg)
+
+
+
+
+
+
+
+
+
+
+
+![Python logo](https://www.python.org/static/img/python-logo.png)
